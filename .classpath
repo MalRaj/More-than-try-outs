@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="coursera"/>
+	<classpathentry kind="src" path="javabook"/>
+	<classpathentry kind="src" path="ToDoList"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/run/localRun/macrame-working-folder/lib/json/jackson-core-asl-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/run/localRun/macrame-working-folder/lib/json/jackson-mapper-asl-1.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/run/localRun/macrame-working-folder/lib/json/json-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/run/localRun/macrame-working-folder/lib/json/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-configuration-1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/malavika_parvathy/Desktop/All/Work/iWork/work/Common Lib/commons/commons-pool-1.5.5.jar"/>
+	<classpathentry kind="src" path="firstgame"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
